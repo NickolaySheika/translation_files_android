@@ -108,7 +108,7 @@
 <string name="dialog_progress_delivery_pickup">Delivery Pickup</string>
 <string name="dialog_progress_delivery_pickup_message">Picking up…</string>
 <string name="dialog_progress_issue_message">Reporting…</string>
-<string name="dialog_string_phone_title">Make a call</string>
+<string name="dialog_string_phone_title">Call number</string>
 <string name="error_update_null">Content has never been updated</string>
 <string name="error_update_pattern">Last update %1$s ago</string>
 <string name="notification_working_message">You are currently online and able to receive deliveries</string>
@@ -410,7 +410,7 @@
 <string name="cash_out_qrcode_instructions">Please scan the QR code to complete the cashout</string>
 <string name="error_no_navigation_app">Sorry, you don\'t have a navigation app</string>
 <string name="mandatory_pop_dialog_message">You\'re far away from the pickup area. A proof of pickup is required</string>
-<string name="deliver_anything_title">Faza’a </string>
+<string name="deliver_anything_title">Faza\'a</string>
 <string name="delivery_estimated_value">Estimated Value</string>
 <string name="delivery_redispatch_confirmation_title">Redispatch Order</string>
 <string name="delivery_redispatch_confirmation_message">Are you sure? If you continue, this order will be given to another rider</string>
@@ -426,11 +426,20 @@
 <string name="cash_out_bank_transfer_wallet_balance">Wallet Balance</string>
 <string name="cash_out_bank_transfer_amount">Cash Out Amount</string>
 <string name="cash_out_bank_transfer_message">Only the amount added 48hrs prior can be transferred. You can transfer the amount between 200 and 2000 SAR</string>
-<string name="cash_out_bank_transfer_info">Phone number in rooster profile will be used</string>
+<string name="cash_out_bank_transfer_info">Your STC Pay Account that you have input in the E badge will be used</string>
 <string name="rider_shopper_title">Rider-Shopper Order</string>
 <string name="navigate_to_pelican">Go to Pelican</string>
 <string name="acceptance_rate">Acceptance Rate</string>
 <string name="cash_out_bank_transfer_fail_message">Your transfer request failed</string>
 <string name="cash_out_bank_transfer_success_message">Your transfer request was successfuly processed</string>
-<string name="cash_out_bank_transfer_error_multiple_pending_transactions">Your transfer request failed because multiple pending transactions</string>
+<string name="cash_out_bank_transfer_error_multiple_pending_transactions">There should be only one pending transaction</string>
+<string name="cash_out_bank_transfer_error_phone_empty">Rider\'s phone number couldn\'t be found</string>
+<string name="cash_out_bank_transfer_error_auth_failed">Authentication failed</string>
+<string name="cash_out_bank_transfer_error_integration_disabled">StcPay integration is disabled</string>
+<string name="cash_out_bank_transfer_error_courier_not_found">Courier not found</string>
+<string name="cash_out_bank_transfer_error_min_limit">Amount is less than min limit</string>
+<string name="cash_out_bank_transfer_error_max_limit">Amount is greater than max limit</string>
+<string name="cash_out_bank_transfer_error_amount_gt_balance">Amount is greater than courier balance</string>
+<string name="cash_out_bank_transfer_error_request_failed">Withdraw request failed</string>
+<string name="cash_out_bank_transfer_error_courier_fetch">Rider\'s info couldn\'t be fetched from rooster</string>
 </resources>

@@ -108,7 +108,7 @@
 <string name="dialog_progress_delivery_pickup">訂單提取</string>
 <string name="dialog_progress_delivery_pickup_message">正在提取…</string>
 <string name="dialog_progress_issue_message">正在回報…</string>
-<string name="dialog_string_phone_title">致電顧客</string>
+<string name="dialog_string_phone_title">致電</string>
 <string name="error_update_null">內容沒有更新</string>
 <string name="error_update_pattern">最後更新在 %1$s 分鐘前</string>
 <string name="notification_working_message">你已上線，可接受訂單</string>

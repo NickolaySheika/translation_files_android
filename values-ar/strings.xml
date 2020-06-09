@@ -268,6 +268,7 @@
 <string name="COURIER_AND_DELIVERIES_VIEWHOLDER_ADDRESS_DISTRICT">منطقة</string>
 <string name="COURIER_AND_DELIVERIES_VIEWHOLDER_ADDRESS_BLOCK">قطعة</string>
 <string name="channel_notification_sendbird_name">رسائل العميل</string>
+<string name="channel_notification_sendbird_description">رسائل العميل</string>
 <string name="all_warning">تحذير</string>
 <string name="chat_preferred_language">لغة المحادثة المفضلة
 </string>
@@ -300,6 +301,7 @@
 </string>
 <string name="reset_password_success">تم إرسال كلمة مرور جديدة عبر رسالة نصية</string>
 <string name="wallet_top_up_title">بطاقة واحدة</string>
+<string name="wallet_top_up_description">يرجى إدخال الرمز على قسيمة ون كارد الخاصة بك</string>
 <string name="wallet_top_up_invalid_number">من فضلك أدخل رقماً صحيحً</string>
 <string name="all_send">تم الإرسال</string>
 <string name="wallet_top_up_success">ناجح</string>
@@ -326,11 +328,14 @@
 <string name="no_notification">بدون إشعارات</string>
 <string name="payment_code">كود الدفع</string>
 <string name="create_payment_code">إنشاء كود دفع</string>
+<string name="easy_pay_payment_info">يمكنك الدفع من خلال Easypay / Epay باستخدام الرمز أعلاه.</string>
+<string name="easy_pay_expiration_info">عندما تنتهي صلاحية الرمز ، ستتمكن من طلب رمز جديد.</string>
 <string name="view_payment_code">معاينة كود الدفع</string>
 <string name="amount">المبلغ</string>
 <string name="customer_chats_title">محادثة العميل</string>
 <string name="customer_chats_delivery_status_pick_up">إلى الاستلام</string>
 <string name="customer_chats_delivery_status_drop_off">إلى التسليم</string>
+<string name="equipment_damage_policy">أوافق على تخفيض راتبي إذا أضعت معدات العمل أو أضرت بها.</string>
 <string name="freshchat_chat_resolution_survey_question">هل قمنا بحل مشكلتك؟
 </string>
 <string name="freshchat_chat_resolution_confirmation_prompt">هل قمنا بالرد على استفسارك؟</string>
@@ -347,7 +352,9 @@
 <string name="qrcode_paid_success_drop_off">تسليم</string>
 <string name="qrcode_code_validation_enter_code_below">اطلب من العميل كود الدفع وسجله تحت</string>
 <string name="qrcode_code_validation_ask_customer_to_scan">اطلب من العميل الباركود</string>
+<string name="qrcode_code_validate">التحقق من صحة</string>
 <string name="qrcode_code_error">كود خطأ</string>
+<string name="qrcode_code_error_description">رمز التأكيد غير صالح. يرجى المحاولة مرة أخرى أو الاتصال بالمرسل " عبر فريش شات "</string>
 <string name="qrcode_next">التالي</string>
 <string name="qrcode_confirm_payment">اجمع باستخدام الباركود</string>
 <string name="disable_update_banner">الأجهزة التي تعمل بنظام أقل من أندرويد ٥. لن تتمكن من تحديث إصدار رود رنر</string>
@@ -362,11 +369,15 @@
 <string name="success">ناجح</string>
 <string name="cash_out">المصروفات</string>
 <string name="select_provider">يرجى تحديد مزود خدمة الدفع</string>
+<string name="cash_out_user_id_instructions">راجع رقم المستخدم "ID"  الخاص بك لإكمال الدفع</string>
 <string name="cash_out_user_id_title">رقم المعرف</string>
 <string name="cash_out_link_button">إذهب إلى %1$s</string>
 <string name="cash_out_code_title">كود الدفع</string>
 <string name="cash_out_code_instructions">استخدم الرمز اللي تحت لإكمال الدفع</string>
 <string name="cash_out_link_instructions">اضغط تحت لبدء معاملتك</string>
+<string name="cash_out_pago46_link_footer">يمكنك الدفع عن طريق Pago46</string>
+<string name="cash_out_dragonpay_user_id_footer">يمكنك الدفع عن طريق DragonPay</string>
+<string name="cash_out_easypay_code_footer">يمكنك الدفع من خلال Easypay / Epay باستخدام الرمز أعلاه. عندما تنتهي صلاحية الرمز ، ستتمكن من طلب رمز جديد.</string>
 <string name="wallet_top_up_voucher_error">عفوًا لا يمكنك الاستفادة من هذا العرض 
 </string>
 <string name="requst_break_not_allowed_ongoing_delivery">لا يمكنك طلب استراحة حاليا، لديك طلب. يمكنك طلب الاستراحة بعد ان تكمل طلبك؟</string>
@@ -376,11 +387,17 @@
 <string name="benefits">فوائد</string>
 <string name="onboarding">التدريب</string>
 <string name="user_profile">حسابي</string>
+<string name="shifts">نوبات او اوقات العمل</string>
 <string name="clone_app_dialog_description">أنت تستخدم نسخة غير رسمية من رود رانر. الرجاء تحميل النسخة الرسمية.</string>
 <string name="clone_app_dialog_button">تحميل</string>
+<string name="pending_transaction_warning">يرجى التحديث إلى أحدث إصدار من التطبيق حتى تتمكن من صرف النقود.</string>
+<string name="pending_transaction_warning_subtitle">في انتظار السحب النقدي</string>
+<string name="shift_extension">تمديد وقت او نوبة العمل</string>
+<string name="shift_extension_explanation">أنا متاح للعمل فتره اطول</string>
 <string name="notifications_detail_title">رسالة</string>
 <string name="end_break">إيقاف الاستراحة</string>
 <string name="login_phone_placeholder_title">جوال</string>
+<string name="heat_map">خريطة الحرارة</string>
 <string name="customer_chat_quick_reply_omw">في الطريق</string>
 <string name="customer_chat_quick_reply_ok">حسناً</string>
 <string name="customer_chat_quick_reply_im_here">أنا موجود</string>
@@ -391,19 +408,36 @@
 <string name="delivery_upload_proof_screen_title">اخذ صورة</string>
 <string name="delivery_upload_proof_note">اخذ صورة</string>
 <string name="delivery_upload_proof_photo_attached">ارفق صورة</string>
+<string name="delivery_upload_proof_failure">لا اتمكن من تحميل الملف</string>
 <string name="delivery_upload_proof_failure_description">تقدر ترجع تعيد</string>
 <string name="customer_chat_quick_reply_will_leave_at_doorstep">بخلي الطلب عند الباب</string>
 <string name="customer_chat_quick_reply_food_is_preparing">المطعم يجهز الطلب</string>
 <string name="customer_chat_quick_reply_cant_reach">ما قدرت اتواصل معاك</string>
 <string name="customer_chat_quick_reply_are_available_for_call">تقدر ترد على الاتصال؟</string>
+<string name="cash_out_qrcode_instructions">يرجى مسح رمز الاستجابة السريعة "QR " لإكمال السحب</string>
+<string name="error_no_navigation_app">عذرًا ، ليس لديك تطبيق خرائط GPS </string>
+<string name="mandatory_pop_dialog_message">أنت بعيد عن منطقة استلام الطلب. مطلوب إثبات علي استلامك للطلب</string>
 <string name="deliver_anything_title">فزعة</string>
 <string name="delivery_estimated_value">مجموع تقريبي</string>
 <string name="delivery_redispatch_confirmation_title">حول الطلب</string>
+<string name="delivery_redispatch_confirmation_message">هل أنت واثق؟ إذا تابعت ، سيتم إعطاء هذا الطلب لراكب آخر</string>
 <string name="pay_cash_title">ادفع نقدًا</string>
+<string name="refer_a_friend_prefix">مرحبًا ، انضم إلى فريق التوصيل ، استخدم الرابط للبدء الآن.</string>
 <string name="accept_screen_product_item">صنف d% </string>
 <string name="accept_screen_product_items">أصناف d% </string>
 <string name="equipment_privacy_location_policy">معلومات سياسة الموقع</string>
 <string name="delivery_decline_confirmation_title">رفض الطلب</string>
 <string name="delivery_decline_confirmation_message">متأكد؟ إذا كملت الخطوة, راح نعطي الطلب لمندوب ثاني</string>
 <string name="temperature_validator_hint">درجة حرارة الجسم</string>
+<string name="wallet_history">السجل</string>
+<string name="cash_out_bank_transfer_wallet_balance">رصيد المحفظة</string>
+<string name="cash_out_bank_transfer_amount">مبلغ السحب النقدي</string>
+<string name="cash_out_bank_transfer_message">يمكن تحويل المبلغ المضاف قبل 48 ساعة فقط. يمكنك تحويل المبلغ ما بين 200 و 2000 ريال سعودي</string>
+<string name="cash_out_bank_transfer_info">سيتم استخدام حساب Pay STC الخاص بك الذي قمت بإدخاله في E</string>
+<string name="rider_shopper_title">طلب سائق- عميل</string>
+<string name="navigate_to_pelican">انتقل إلى Pelican</string>
+<string name="acceptance_rate">معدل القبول</string>
+<string name="cash_out_bank_transfer_fail_message">فشل طلب التحويل الخاص بك</string>
+<string name="cash_out_bank_transfer_success_message"> طلب التحويل الخاص بك تم بنجاح</string>
+<string name="cash_out_bank_transfer_error_multiple_pending_transactions">فشل طلب التحويل الخاص بك بسبب العديد من المعاملات المعلقه</string>
 </resources>

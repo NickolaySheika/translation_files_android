@@ -108,7 +108,7 @@
 <string name="dialog_progress_delivery_pickup">ការដឹកជញ្ជូនបានទៅយកឥវ៉ាន់</string>
 <string name="dialog_progress_delivery_pickup_message">កំពុងយកឥវ៉ាន់</string>
 <string name="dialog_progress_issue_message">កំពុងរាយការណ៍</string>
-<string name="dialog_string_phone_title">ទូរស័ព្ទទៅកាន់ខាងផ្នែកទំនាក់ទំនងអតិថិជន</string>
+<string name="dialog_string_phone_title">លេខទូរស័ព្ទទំនាក់ទំនង</string>
 <string name="error_update_null">មាតិកាមិនមានទិន្នន័យថ្មីបំផុត</string>
 <string name="error_update_pattern">ពត៍មានចុងក្រោយ %1$s កន្លងទៅ</string>
 <string name="notification_working_message">ឥឡូវអ្នកកំពុងអនឡាញ ហើយនឹងអាចទទួលការដឹកជញ្ជូន</string>
@@ -407,5 +407,17 @@
 <string name="cash_out_qrcode_instructions">សូមស្កេន កូដ​ QR ដើម្បីបំពេញការដកប្រាក់</string>
 <string name="error_no_navigation_app">សូមអភ័យទោស បងមិនមានកម្មវិធីរុករកផ្លូវ</string>
 <string name="mandatory_pop_dialog_message">បងនៅឆ្ងាយពីកន្លែងយកអាហារ។ តំរូវឲ្យមានភស្តុតាងពីកន្លែងយកអាហារ</string>
+<string name="delivery_estimated_value">តម្លៃដែលប្រហាក់ប្រហែល</string>
+<string name="delivery_redispatch_confirmation_title">រកដៃគូដឹកជញ្ជូនថ្មីដើម្បីដឹកការកុម្ម៉ង់</string>
+<string name="delivery_redispatch_confirmation_message">តើអ្នកប្រាកដទេ?​ បើអ្នកចង់បន្ត, ការកុម្ម៉ង់នេះនឹងត្រូវបញ្ជូនអោយដៃគូដឹកជញ្ជូនថ្មីមួយទៀត</string>
+<string name="pay_cash_title">បង់សាច់ប្រាក់</string>
 <string name="refer_a_friend_prefix">សួស្តី! ចូលរួមជាមួយក្រុមអ្នកដឹកជញ្ជូន សូមចុចខ្សែនេះដើម្បីចាប់ផ្តើម។</string>
+<string name="accept_screen_product_item">មុខម្ហូប</string>
+<string name="accept_screen_product_items">មុខម្ហូប</string>
+<string name="equipment_privacy_location_policy">ការចូលប្រើប្រាស់ទិន្នន័យរបស់ទីតាំង</string>
+<string name="delivery_decline_confirmation_title">មិនយកការកុម្ម៉ង់</string>
+<string name="delivery_decline_confirmation_message">តើអ្នកប្រាកដទេ?​ បើអ្នកចង់បន្ត, ការកុម្ម៉ង់នេះនឹងត្រូវបញ្ជូនអោយដៃគូដឹកជញ្ជូនថ្មីមួយទៀត</string>
+<string name="temperature_validator_hint">កម្តៅក្នុងខ្លួន</string>
+<string name="wallet_history">ប្រវត្តី</string>
+<string name="cash_out_bank_transfer_wallet_balance">ទឹកប្រាក់ក្នុងកាបូប</string>
 </resources>

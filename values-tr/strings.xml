@@ -57,6 +57,7 @@
 <string name="COURIER_AND_DELIVERIES_VIEWHOLDER_TITLE_DROPOFF">Teslim noktası detayları</string>
 <string name="COURIER_AND_DELIVERIES_VIEWHOLDER_TITLE_NEXT">Sonraki Adımlar</string>
 <string name="COURIER_AND_DELIVERIES_VIEWHOLDER_TITLE_PICKUP">Teslim Alma Detayları</string>
+<string name="COURIER_AND_DELIVERIES_VIEWHOLDER_TITLE_TIME_NULL">-</string>
 <string name="all_split_delivey_primary">Siparişi Ayır - İlk Olarak</string>
 <string name="all_split_delivey_secondary">Siparişi Ayır - İkinci olarak</string>
 <string name="all_find_courier">Kurye bul %1$s</string>
@@ -281,6 +282,8 @@
 <string name="accept_rider_payment_type_cash">Nakit</string>
 <string name="accept_rider_payment_type_wallet">Cüzdan</string>
 <string name="accept_rider_pay_at_pickup">Teslim Alırken Ödeme Yap</string>
+<string name="login_email_phone">Telefon Numarası (05123456)</string>
+<string name="accept_rider_commission_header">%1$ Kazanç</string>
 <string name="wallet_top_up">Yükle</string>
 <string name="reset_password">Şifreyi Sıfırla</string>
 <string name="reset_password_success">Yeni şifre mesaj ile iletildi.</string>
@@ -339,6 +342,7 @@
 <string name="qrcode_code_error">Hatalı Kod</string>
 <string name="qrcode_code_error_description">Onay Kodu hatalı. Tekrar Dene veya Operayon ile iletişime geç. </string>
 <string name="qrcode_next">İLERLE</string>
+<string name="qrcode_code_validate_and_drop_off">ONAYLANDI &amp;amp; TESLİM ET</string>
 <string name="qrcode_confirm_payment">QR Kod ile Al</string>
 <string name="disable_update_banner">Android 5 altı cihazlarda güncel Roadrunner sürümü çalışmayacaktır. </string>
 <string name="request_break">Mola Talep Et</string>
@@ -396,4 +400,28 @@
 <string name="customer_chat_quick_reply_cant_reach">Size Ulaşamıyorum</string>
 <string name="customer_chat_quick_reply_are_available_for_call">Telefona Cevap Verebilecek misin ?</string>
 <string name="cash_out_qrcode_instructions">QR Kodu Tarayın</string>
+<string name="error_no_navigation_app">Özür dileriz, navigasyon uygulamanız yok</string>
+<string name="mandatory_pop_dialog_message">Teslimat alanından uzaktasın, teslimat için kanıt gerekli</string>
+<string name="delivery_estimated_value">Öngörülen değer</string>
+<string name="delivery_redispatch_confirmation_title">Sipariş tekrar atansın</string>
+<string name="delivery_redispatch_confirmation_message">Emin misiniz? Eminseniz, bu sipariş başka kuryeye atanacaktır.</string>
+<string name="pay_cash_title">Nakit Ödeme</string>
+<string name="refer_a_friend_prefix">Merhaba, kurye grubuna katıl, başlamak için linki kullan</string>
+<string name="accept_screen_product_item">%1$d ürün</string>
+<string name="accept_screen_product_items">%1$d ürünler</string>
+<string name="equipment_privacy_location_policy">Lokasyon Bilgisi Politikası</string>
+<string name="delivery_decline_confirmation_title">Siparişi reddet</string>
+<string name="delivery_decline_confirmation_message">Emin misiniz? Eğer reddederseniz, bu sipariş başka kuryeye atanacaktır.</string>
+<string name="temperature_validator_hint">Vücüt ısısı °C</string>
+<string name="wallet_history">Geçmiş</string>
+<string name="cash_out_bank_transfer_wallet_balance">Bakiye</string>
+<string name="cash_out_bank_transfer_amount">Nakit Çıkış Miktarı</string>
+<string name="cash_out_bank_transfer_message">Sadece 48 saat önce eklenmiş miktar transfer edilebilir. 200 ve 2000 arasındaki miktarı transfer edebilirsin.</string>
+<string name="cash_out_bank_transfer_info">Rooster profilindeki telefon numarası kullanılacaktır</string>
+<string name="rider_shopper_title">Kurye-Depocu Sipariş</string>
+<string name="navigate_to_pelican">Pelican\'a git</string>
+<string name="acceptance_rate">Kabul Oranı</string>
+<string name="cash_out_bank_transfer_fail_message">Transfer talebin başarısız oldu</string>
+<string name="cash_out_bank_transfer_success_message">Transfer talebin başarıyla tamamlandı</string>
+<string name="cash_out_bank_transfer_error_multiple_pending_transactions">Transfer talebin birden fazla beklenen işlem nedeniyle başarısız oldu.</string>
 </resources>

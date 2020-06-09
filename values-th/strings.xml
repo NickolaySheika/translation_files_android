@@ -108,7 +108,7 @@
 <string name="dialog_progress_delivery_pickup">รับอาหาร</string>
 <string name="dialog_progress_delivery_pickup_message">กำลังไปรับ&#8230;</string>
 <string name="dialog_progress_issue_message">กำลังรายงาน&#8230;</string>
-<string name="dialog_string_phone_title">โทรติดต่อลูกค้า</string>
+<string name="dialog_string_phone_title">โทรติดต่อร้าน</string>
 <string name="error_update_null">คอนเทนต์ยังไม่ได้รับการอัปเดต</string>
 <string name="error_update_pattern">ล่าสุด %1$s ที่ผ่านมา</string>
 <string name="notification_working_message">คุณกำลังออนไลน์และสามารถรับงานได้แล้ว</string>

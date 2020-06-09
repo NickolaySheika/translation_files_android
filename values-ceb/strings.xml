@@ -108,7 +108,7 @@
 <string name="dialog_progress_delivery_pickup">Delivery Pickup</string>
 <string name="dialog_progress_delivery_pickup_message">Ginapick-up na</string>
 <string name="dialog_progress_issue_message">Nagpamalita</string>
-<string name="dialog_string_phone_title">Tawagi ang kustomer</string>
+<string name="dialog_string_phone_title">Tawga ang numero</string>
 <string name="error_update_null">Ang content wala pa na-update </string>
 <string name="error_update_pattern">Ulahing update </string>
 <string name="notification_working_message">Online ka karun at mudawat ka ug deliveries </string>

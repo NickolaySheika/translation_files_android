@@ -4,7 +4,7 @@
 <string name="all_accept">လက်ခံသည်</string>
 <string name="all_area">စတင်သောဧရိယာ</string>
 <string name="all_availability">အသုံးပြုနိုင်ခြင်း</string>
-<string name="all_call">ဖုန်းခေါ်ခြင်း</string>
+<string name="all_call">ဖုန်းခေါ်သည်</string>
 <string name="all_cancel">ပယ်ဖျက်ခြင်း</string>
 <string name="all_confirm">လက်ခံသည်။</string>
 <string name="all_day">နေ့ရက်</string>
@@ -108,7 +108,7 @@
 <string name="dialog_progress_delivery_pickup">သွားယူရမည့်ဆိုင်နေရာ</string>
 <string name="dialog_progress_delivery_pickup_message">သွားရောက်ယူဆောင်နေဆဲ…</string>
 <string name="dialog_progress_issue_message">သတင်းပေးပို့နေဆဲ…</string>
-<string name="dialog_string_phone_title">Customer ကို ဖုန်းခေါ်ခြင်း</string>
+<string name="dialog_string_phone_title">ဖုန်းခေါ်သည်</string>
 <string name="error_update_null">အကြောင်းအရာကို ထပ်မံဖြည့်စွက်ထားခြင်း မရှိသေးပါ။</string>
 <string name="error_update_pattern">လွန်ခဲ့သော %1$s က နောက်ဆုံး update</string>
 <string name="notification_working_message">လက်ရှိတွင်အွန်လိုင်းရှိနေပြီး ပို့ဆောင်မှုများကို လက်ခံနိုင်သည်</string>
@@ -422,4 +422,16 @@
 <string name="delivery_decline_confirmation_title">အော်ဒါပယ်ဖျက်သည်</string>
 <string name="delivery_decline_confirmation_message">ဒီအော်ဒါကိုပယ်ဖျက်မှာသေချာပါသလား?</string>
 <string name="temperature_validator_hint">ခန္ဓာကိုယ်အပူချိန် °C</string>
+<string name="wallet_history">မှတ်တမ်း</string>
+<string name="cash_out_bank_transfer_wallet_balance">ငွေလက်ကျန်</string>
+<string name="cash_out_bank_transfer_amount">ထုတ်ယူမည့် ငွေပမာဏ</string>
+<string name="cash_out_bank_transfer_message">(၄၈ နာရီ) ကြိုတင်ထည့်သွင်းထားသော ငွေပမာဏကိုသာ လွှဲပြောင်းနိူင်သည်။  ငွေပမာဏ ၂၀၀ နှင့် ၂၀၀၀ ကြား သင့်ဘက်မှ လွှဲပြောင်းမှုပြုလုပ်နိူင်သည်။</string>
+<string name="acceptance_rate">အော်ဒါလက်ခံမှုနှုန်း</string>
+<string name="cash_out_bank_transfer_fail_message">သင့်ငွေလွှဲပြောင်းမှုလုပ်ဆောင်ခြင်း မအောင်မြင်ပါ</string>
+<string name="cash_out_bank_transfer_success_message">သင့်ငွေလွှဲပြောင်းမှုလုပ်ဆောင်ခြင်း အောင်မြင်ပါသည်</string>
+<string name="cash_out_bank_transfer_error_multiple_pending_transactions">ငွေလွှဲပြောင်းခြင်းဆိုင်ရာတောင်းဆိုမှုအတွက် သင့်ဘက်မှ တစ်ကြိမ်သာ တောင်းဆိုခွင့်ရှိသည်</string>
+<string name="cash_out_bank_transfer_error_phone_empty">သင်၏ ဖုန်းနံပါတ် မှားယွင်းနေပါသည်</string>
+<string name="cash_out_bank_transfer_error_auth_failed">အချက်အလက်ပြည့်စုံ မှန်ကန်မှုမရှိပါ</string>
+<string name="cash_out_bank_transfer_error_min_limit">သင်၏ ငွေပမာဏမှာ လျှော့နည်းနေပါသည်</string>
+<string name="cash_out_bank_transfer_error_max_limit">သင်၏ ငွေပမာဏမှာ များနေပါသည်</string>
 </resources>

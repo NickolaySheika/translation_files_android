@@ -327,11 +327,11 @@ El modo fuera de línea no está configurado. Se producirá uso de datos adicion
 <string name="customer_chats_delivery_status_pick_up">AL LOCAL</string>
 <string name="customer_chats_delivery_status_drop_off">AL CLIENTE</string>
 <string name="equipment_damage_policy">Acepto que mi pago se puede ver reducido si me falta o tengo dañado el equipamiento correspondiente</string>
-<string name="freshchat_chat_resolution_survey_question">¿Hemos resuelto tu problema?</string>
-<string name="freshchat_chat_resolution_confirmation_prompt">¿Hemos abordado tus inquietudes?</string>
+<string name="freshchat_chat_resolution_survey_question">Califica la atención recibida </string>
+<string name="freshchat_chat_resolution_confirmation_prompt">¿Quieres calificar la atención recibida?</string>
 <string name="freshchat_chat_resolution_confirmation_prompt_positive">¡Sí!</string>
 <string name="freshchat_chat_resolution_confirmation_prompt_negative">No</string>
-<string name="freshchat_chat_resolution_suggestions_prompt">¿Cómo podríamos haberte ayudado mejor?</string>
+<string name="freshchat_chat_resolution_suggestions_prompt">Comentarios adicionales</string>
 <string name="freshchat_chat_rating_submit">Enviar</string>
 <string name="freshchat_chat_resolution_user_comments_hint">Comentarios adicionales</string>
 <string name="qrcode_payment_title">Pago</string>
@@ -386,7 +386,10 @@ Intente nuevamente o comuníquese con Operaciones</string>
 <string name="break_ending_at">terminando en %1$s</string>
 <string name="shift_extension">Extender turno</string>
 <string name="shift_extension_explanation">Estoy disponible para extender mi turno</string>
+<string name="notifications_detail_title">Mensaje</string>
 <string name="end_break">Finalizar Pausa</string>
+<string name="login_phone_placeholder_title">Teléfono</string>
+<string name="heat_map">Mapa de calor</string>
 <string name="customer_chat_quick_reply_omw">Estoy en camino</string>
 <string name="customer_chat_quick_reply_ok">OK</string>
 <string name="customer_chat_quick_reply_im_here">He llegando</string>
@@ -411,4 +414,21 @@ Intente nuevamente o comuníquese con Operaciones</string>
 <string name="delivery_redispatch_confirmation_title">Quitando orden</string>
 <string name="delivery_redispatch_confirmation_message">Se te quitará la orden y se dejará disponible para otro rider. Cuando se quita una orden no se te abona ningún conepto por la misma.</string>
 <string name="pay_cash_title">Pago en efectivo</string>
+<string name="refer_a_friend_prefix">Hola! ¿querés convertirte en rider? Hacé click en el link.</string>
+<string name="accept_screen_product_item">%1$d Producto</string>
+<string name="accept_screen_product_items">%1$d Productos</string>
+<string name="equipment_privacy_location_policy">Política de privacidad de la ubicación</string>
+<string name="delivery_decline_confirmation_title">Rechazar orden</string>
+<string name="delivery_decline_confirmation_message">¿Estás seguro? Si la rechazas, la orden será enviada a otro rider.</string>
+<string name="temperature_validator_hint">Temperatura corporal C°</string>
+<string name="wallet_history">Historia</string>
+<string name="cash_out_bank_transfer_wallet_balance">Balance</string>
+<string name="cash_out_bank_transfer_amount">Monto Depositado</string>
+<string name="cash_out_bank_transfer_info">Se utilizará el número de teléfono de tu cuenta</string>
+<string name="rider_shopper_title">Orden de supermercado</string>
+<string name="navigate_to_pelican">Ve a Pelican</string>
+<string name="acceptance_rate">Tasa de aceptación</string>
+<string name="cash_out_bank_transfer_fail_message">Tu solicitud de transferencia falló</string>
+<string name="cash_out_bank_transfer_success_message">Tu solicitud de transferencia fue realizada con éxito</string>
+<string name="cash_out_bank_transfer_error_multiple_pending_transactions">Tu solicitud de transferencia falló debido a múltiples transacciones pendientes</string>
 </resources>
