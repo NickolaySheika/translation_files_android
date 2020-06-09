@@ -442,4 +442,6 @@
 <string name="cash_out_bank_transfer_error_amount_gt_balance">Amount is greater than courier balance</string>
 <string name="cash_out_bank_transfer_error_request_failed">Withdraw request failed</string>
 <string name="cash_out_bank_transfer_error_courier_fetch">Rider\'s info couldn\'t be fetched from rooster</string>
+<string name="just_hello">Just hello</string>
+<string name="hello_world_android">Hello world</string>
 </resources>
